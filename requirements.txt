@@ -10,3 +10,4 @@ seaborn
 requests
 tqdm
 geopandas
+python +-dotenv
